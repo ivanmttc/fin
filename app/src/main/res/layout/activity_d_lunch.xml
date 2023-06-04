@@ -76,3 +76,4 @@
         android:textStyle="bold"
         android:text="營業時間：09:00–16:30，周㇐休息"/>
 
+</LinearLayout>

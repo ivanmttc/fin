@@ -51,7 +51,7 @@
         android:text="位於露營區旁邊，園區內設有生態水池、水中植物
 池、中藥園區、草園區、花海區等多個區域。不同的季節可以看到不同種
 類的植物，如櫻花、落羽松、楓葉、繡球花……等，可以悠閒地拍照散散
-步。"></TextView>
+步。"/>
 
     <ImageView
         android:id="@+id/imageView3"
@@ -59,3 +59,4 @@
         android:layout_height="272dp"
         app:srcCompat="@drawable/d_3" />
 
+</LinearLayout>

@@ -48,7 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="23dp"
-        android:text="武陵農場位在雪霸國家公園裡，是台灣著名的高山農場，因為高海拔加上多樣的地理景觀，㇐年四季都很值得造訪！春季有紫藤花，夏季可以看繡球花，秋季則是楓紅、銀杏、落羽松，冬季則是有最粉嫩的梅花與櫻花。">
+        android:text="武陵農場位在雪霸國家公園裡，是台灣著名的高山農場，因為高海拔加上多樣的地理景觀，㇐年四季都很值得造訪！春季有紫藤花，夏季可以看繡球花，秋季則是楓紅、銀杏、落羽松，冬季則是有最粉嫩的梅花與櫻花。"/>
 
     <TextView
         android:id="@+id/txw7"

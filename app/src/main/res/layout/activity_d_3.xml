@@ -49,7 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="23dp"
-        android:text="有櫻花鉤吻鮭魚體介紹、在臺灣的分布及復育放養現況等解說與影片，還有櫻花鉤吻鮭標本、櫻花鉤吻鮭和苦花展示於模擬天然棲地的水族缸中，可以近距離觀賞櫻花鉤吻鮭。此外亦全天播放「台灣櫻花鉤吻鮭歷史溪流放流紀錄影片」給所有遊客欣賞。">
+        android:text="有櫻花鉤吻鮭魚體介紹、在臺灣的分布及復育放養現況等解說與影片，還有櫻花鉤吻鮭標本、櫻花鉤吻鮭和苦花展示於模擬天然棲地的水族缸中，可以近距離觀賞櫻花鉤吻鮭。此外亦全天播放「台灣櫻花鉤吻鮭歷史溪流放流紀錄影片」給所有遊客欣賞。"/>
 
     <TextView
         android:id="@+id/txw74"

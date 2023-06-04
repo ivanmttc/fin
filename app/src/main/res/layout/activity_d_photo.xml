@@ -43,10 +43,11 @@
     <ImageView
         android:layout_width="443dp"
         android:layout_height="319dp"
-        android:
         app:srcCompat="@drawable/d_1" />
 
     <ImageView
         android:layout_width="422dp"
         android:layout_height="328dp"
-        android: app:srcCompat="@drawable/d_2" />
+        app:srcCompat="@drawable/d_2" />
+
+</LinearLayout>

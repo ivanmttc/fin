@@ -49,13 +49,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="23dp"
-        android:text="雪山神木步道由神木停車場出發，寬大水泥路平坦好走，去程為緩下坡，約25~30 分鐘，回程為上坡，較費體力，需50~60 分鐘，沿途華山松及紅檜林夾道景緻優美，漫步其中享受清新的空氣，空曠處可眺望北三錐山，巨大的雪山神木姿態挺拔、高聳入雲，是大雪山森林遊樂區的重要景點，續往前走雲海亭、殉難員工紀念碑矗立在松木林之中。。">
+        android:text="雪山神木步道由神木停車場出發，寬大水泥路平坦好走，去程為緩下坡，約25~30 分鐘，回程為上坡，較費體力，需50~60 分鐘，沿途華山松及紅檜林夾道景緻優美，漫步其中享受清新的空氣，空曠處可眺望北三錐山，巨大的雪山神木姿態挺拔、高聳入雲，是大雪山森林遊樂區的重要景點，續往前走雲海亭、殉難員工紀念碑矗立在松木林之中。"/>
 
 
     <ImageView
         android:layout_width="422dp"
         android:layout_height="328dp"
-        android: app:srcCompat="@drawable/e_3"/>
+        app:srcCompat="@drawable/e_3" />
 
 
 

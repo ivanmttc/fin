@@ -13,12 +13,12 @@ class D_4 : AppCompatActivity() {
     }
 
     fun page_d_3(view: View){
-        val intent = Intent(this, A_3::class.java )
+        val intent = Intent(this, D_3::class.java )
         startActivity(intent)
     }
 
     fun page_d_5(view: View){
-        val intent = Intent(this, A_5::class.java )
+        val intent = Intent(this, D_5::class.java )
         startActivity(intent)
     }
 }

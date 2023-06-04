@@ -17,7 +17,7 @@ class A_8 : AppCompatActivity() {
     }
 
     fun page_a_p(view: View){
-        val intent = Intent(this, MainActivity::class.java )
+        val intent = Intent(this, A_photo::class.java )
         startActivity(intent)
     }
 }

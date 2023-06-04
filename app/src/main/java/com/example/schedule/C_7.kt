@@ -16,8 +16,8 @@ class C_7 : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun page_c_7(view: View){
-        val intent = Intent(this, C_7::class.java )
+    fun page_c_photo(view: View){
+        val intent = Intent(this, C_photo::class.java )
         startActivity(intent)
     }
 }

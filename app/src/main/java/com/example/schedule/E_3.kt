@@ -13,7 +13,7 @@ class E_3 : AppCompatActivity() {
     }
 
     fun page_e_2(view: View){
-        val intent = Intent(this, E_3::class.java )
+        val intent = Intent(this, E_2::class.java )
         startActivity(intent)
     }
 

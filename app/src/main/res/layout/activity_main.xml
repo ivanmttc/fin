@@ -32,7 +32,7 @@
         android:onClick="page4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="大雪山森林遊樂區㇐日遊" />
+        android:text="武陵農場一日遊" />
     <Button
         android:id="@+id/btn_to_5"
         android:onClick="page5"
@@ -40,13 +40,6 @@
         android:layout_height="wrap_content"
         android:text="大雪山森林遊樂區㇐日遊" />
 
-
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="215dp"
-        android: app:srcCompat="@drawable/Any" />
 
     <ImageView
         android:id="@+id/imageView11"
