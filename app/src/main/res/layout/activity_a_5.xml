@@ -14,7 +14,7 @@
 
         <Button
             android:id="@+id/btn1_to_4"
-            android:onClick="page4"
+            android:onClick="page_a_4"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -22,7 +22,7 @@
 
         <Button
             android:id="@+id/btn1_to_6"
-            android:onClick="page6"
+            android:onClick="page_a_6"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -53,6 +53,11 @@
         android:textSize="30dp"
         android:text="步道名稱以當地部落頭目之名發音取為「捎來」。步道有二處登山口，分別經過谷關吊橋及捎來吊橋，沿途林蔭茂密，遠山青翠，綠意盎然，可欣賞大甲溪風光，溫泉飯店林立，谷關風光盡收眼底。步道長度2公里，所需時間約1小時~1.5小時。"/>
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/a_4" />
 
 
 </LinearLayout>

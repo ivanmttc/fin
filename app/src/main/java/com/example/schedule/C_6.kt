@@ -10,12 +10,12 @@ class C_6 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_c_6)
     }
-    fun page5(view: View){
+    fun page_c_5(view: View){
         val intent = Intent(this, C_5::class.java )
         startActivity(intent)
     }
 
-    fun page7(view: View){
+    fun page_c_7(view: View){
         val intent = Intent(this, C_7::class.java )
         startActivity(intent)
     }

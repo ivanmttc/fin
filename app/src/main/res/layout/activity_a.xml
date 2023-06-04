@@ -19,20 +19,21 @@
 
         <Button
             android:id="@+id/btn1_to_2"
-            android:onClick="page2"
+            android:onClick="page_a_2"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="下一頁" />
 
     </LinearLayout>
+
     <TextView
         android:id="@+id/page1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="谷關一日遊路線推薦："
         android:textSize="40dp"
-        android:textStyle="bold"
-        android:text="谷關一日遊路線推薦："/>
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textView"

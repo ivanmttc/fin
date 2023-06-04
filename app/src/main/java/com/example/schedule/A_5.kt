@@ -12,12 +12,12 @@ class A_5 : AppCompatActivity() {
 
     }
 
-    fun page4(view: View){
+    fun page_a_4(view: View){
         val intent = Intent(this, A_4::class.java )
         startActivity(intent)
     }
 
-    fun page6(view: View){
+    fun page_a_6(view: View){
         val intent = Intent(this, A_6::class.java )
         startActivity(intent)
     }

@@ -14,7 +14,7 @@
 
         <Button
             android:id="@+id/btn1_to_3"
-            android:onClick="page4"
+            android:onClick="page_c_4"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -22,7 +22,7 @@
 
         <Button
             android:id="@+id/btn1_to_2"
-            android:onClick="page6"
+            android:onClick="page_c_6"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -84,5 +84,11 @@
         android:textSize="30dp"
         android:textStyle="bold"
         android:text="聯絡電話: 04 2558 1556"/>
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/c_4" />
 
 </LinearLayout>

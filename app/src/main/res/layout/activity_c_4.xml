@@ -14,7 +14,7 @@
 
         <Button
             android:id="@+id/btn1_to_3"
-            android:onClick="page3"
+            android:onClick="page_c_3"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -22,7 +22,7 @@
 
         <Button
             android:id="@+id/btn1_to_2"
-            android:onClick="page5"
+            android:onClick="page_c_5"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -62,5 +62,11 @@
         android:textSize="35dp"
         android:textStyle="bold"
         android:text="開放時間：06:00–18:00"/>
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/c_3" />
 
 </LinearLayout>

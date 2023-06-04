@@ -29,6 +29,7 @@
         <activity android:name=".A_6" />
         <activity android:name=".A_7" />
         <activity android:name=".A_8" />
+        <activity android:name=".A_photo"/>
         <activity android:name=".B" />
         <activity android:name=".B_2" />
         <activity android:name=".B_3" />
@@ -36,6 +37,7 @@
         <activity android:name=".B_5" />
         <activity android:name=".B_6" />
         <activity android:name=".B_7" />
+        <activity android:name=".B_photo" />
         <activity android:name=".C" />
         <activity android:name=".C_2" />
         <activity android:name=".C_3" />
@@ -43,12 +45,20 @@
         <activity android:name=".C_5" />
         <activity android:name=".C_6" />
         <activity android:name=".C_7" />
+        <activity android:name=".C_photo" />
         <activity android:name=".D" />
         <activity android:name=".D_2" />
         <activity android:name=".D_3" />
+        <activity android:name=".D_4" />
+        <activity android:name=".D_5" />
+        <activity android:name=".D_6" />
+        <activity android:name=".D_lunch" />
+        <activity android:name=".D_photo" />
         <activity android:name=".E" />
         <activity android:name=".E_2" />
         <activity android:name=".E_3" />
+        <activity android:name=".E_4" />
+        <activity android:name=".E_photo" />
     </application>
 
 </manifest>

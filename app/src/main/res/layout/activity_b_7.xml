@@ -14,7 +14,7 @@
 
         <Button
             android:id="@+id/btn1_to_3"
-            android:onClick="page6"
+            android:onClick="page_b_6"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -22,11 +22,11 @@
 
         <Button
             android:id="@+id/btn1_to_2"
-            android:onClick="page0"
+            android:onClick="page_b_p"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="回首頁" />
+            android:text="下一頁" />
 
     </LinearLayout>
 
@@ -67,5 +67,11 @@
         android:layout_height="wrap_content"
         android:textSize="30dp"
         android:text="台中市中區綠川西街135號"/>
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/b_5" />
 
 </LinearLayout>
